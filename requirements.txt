@@ -9,3 +9,4 @@ werkzeug==2.0.3
 pandas
 numpy
 jsbeautifier
+protobuf==3.20.*
