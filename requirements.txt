@@ -6,7 +6,7 @@ dash-leaflet==0.1.23
 dash-extensions==0.0.65
 dash-bootstrap-components==1.0.0
 werkzeug==2.0.3
-pandas
+pandas==1.5.*
 numpy
 jsbeautifier
 protobuf==3.20.*
